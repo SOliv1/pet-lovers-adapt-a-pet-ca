@@ -3,6 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 [![CodeQL](https://github.com/SOliv1/Adapt-a-pet-codecademy/actions/workflows/codeql.yml/badge.svg)](https://github.com/SOliv1/Adapt-a-pet-codecademy/actions/workflows/codeql.yml)
+[![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/SOliv1/Adapt-a-pet-codecademy/actions/workflows/pages.yml/badge.svg)](https://github.com/SOliv1/Adapt-a-pet-codecademy/actions/workflows/pages.yml)
 
 ## Available Scripts
 
