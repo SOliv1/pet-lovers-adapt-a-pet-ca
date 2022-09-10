@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f83424e9-d248-41d6-bad4-1ef2726f8f15/deploy-status?branch=master)](https://app.netlify.com/sites/pet-lovers-adapt-a-pet-ca/deploys)
 
 [![CodeQL](https://github.com/SOliv1/Adapt-a-pet-codecademy/actions/workflows/codeql.yml/badge.svg)](https://github.com/SOliv1/Adapt-a-pet-codecademy/actions/workflows/codeql.yml)
 [![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/SOliv1/Adapt-a-pet-codecademy/actions/workflows/pages.yml/badge.svg)](https://github.com/SOliv1/Adapt-a-pet-codecademy/actions/workflows/pages.yml)
