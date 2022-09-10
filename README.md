@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+[![CodeQL](https://github.com/SOliv1/Adapt-a-pet-codecademy/actions/workflows/codeql.yml/badge.svg)](https://github.com/SOliv1/Adapt-a-pet-codecademy/actions/workflows/codeql.yml)
+
 ## Available Scripts
 
 In the project directory, you can run:
